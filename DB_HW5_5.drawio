@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
   <diagram name="Page-1" id="sE5Lu7oL2mz3EywR8Kwq">
-    <mxGraphModel>
+    <mxGraphModel dx="506" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-1" value="Khách hàng" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-2" value="Băng Video" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-3" value="Hãng sản xuất" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-4" value="Phim" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-5" value="Ngăn kệ" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-6" value="Nước sản xuất" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-7" value="Diễn Viên" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-8" value="Hệ Ghi Hình" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkwdVcKG5z0yBtyaXRZx-9" value="Thuê Băng" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
